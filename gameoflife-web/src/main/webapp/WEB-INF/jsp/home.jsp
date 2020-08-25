@@ -8,7 +8,7 @@
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
-            color: green;
+            color: red;
             font-family: sans-serif;
         }
 
